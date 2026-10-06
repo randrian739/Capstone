@@ -1,2 +1,2 @@
 # Capstone
-Repository for potetial Capstone ideas
+Repository for potential Capstone ideas
